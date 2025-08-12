@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx": {
+            "expandedGroupLayers": [
+                14
+            ],
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 15802,
+                "y": 1704
+            }
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#ARBOLESGRANDES": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#Arboles": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#Arboles muertos": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#Lapidas": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#Rocas": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#cofre": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#tilemap_ground": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#tileset rocas": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#tileset_grass": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#tileset_rocks": {
+            "scaleInDock": 1
+        },
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx#tileset_water": {
+            "scaleInDock": 1
+        }
+    },
+    "map.fixedSize": false,
+    "openFiles": [
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx"
+    ],
+    "project": "asd.tiled-project",
+    "recentFiles": [
+        "Assets/Tiled/Tliemaps y objetos/Mapa001.tmx"
+    ]
+}

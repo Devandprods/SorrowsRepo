@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 7b756c7af3ee1dd48833e45c087bdeae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6947853984958960078
+    second: Prueba UI 004_0
+  - first:
+      213: 1617693960643162323
+    second: Prueba UI 004_1
+  - first:
+      213: -6189526308920985463
+    second: Prueba UI 004_2
+  - first:
+      213: -5929203203330801919
+    second: Prueba UI 004_3
+  - first:
+      213: 3548765557677656451
+    second: Prueba UI 004_4
+  - first:
+      213: -3206583913286648627
+    second: Prueba UI 004_5
+  - first:
+      213: -5717766506878511869
+    second: Prueba UI 004_6
+  - first:
+      213: 1565045959191612249
+    second: Prueba UI 004_7
+  - first:
+      213: -1570951272655438998
+    second: Prueba UI 004_8
+  - first:
+      213: -2911633630494083400
+    second: Prueba UI 004_9
+  - first:
+      213: 7203197471020244531
+    second: Prueba UI 004_10
+  - first:
+      213: -6507001427617545088
+    second: Prueba UI 004_11
+  - first:
+      213: 885738436247790602
+    second: Prueba UI 004_12
+  - first:
+      213: -3892348740753955248
+    second: Prueba UI 004_13
+  - first:
+      213: 1995687292744956946
+    second: Prueba UI 004_14
+  - first:
+      213: -1669572655968171862
+    second: Prueba UI 004_15
+  - first:
+      213: 212715541803791137
+    second: Prueba UI 004_16
+  - first:
+      213: 6859526187333935398
+    second: Prueba UI 004_17
+  - first:
+      213: -2543340315610346569
+    second: Prueba UI 004_18
+  - first:
+      213: -4166786147036435355
+    second: Prueba UI 004_19
+  - first:
+      213: -8162725876200066663
+    second: Prueba UI 004_20
+  - first:
+      213: 1474923576584324636
+    second: Prueba UI 004_21
+  - first:
+      213: -220012079360337495
+    second: Prueba UI 004_22
+  - first:
+      213: 828046627265408167
+    second: Prueba UI 004_23
+  - first:
+      213: -6815050612465413781
+    second: Prueba UI 004_24
+  - first:
+      213: -5062511619133789742
+    second: Prueba UI 004_25
+  - first:
+      213: -2805952868109775213
+    second: Prueba UI 004_26
+  - first:
+      213: 1920213029162435315
+    second: Prueba UI 004_27
+  - first:
+      213: 8173784330707174948
+    second: Prueba UI 004_28
+  - first:
+      213: 5023330042496919097
+    second: Prueba UI 004_29
+  - first:
+      213: 7513128788333090074
+    second: Prueba UI 004_30
+  - first:
+      213: 3469383119037752787
+    second: Prueba UI 004_31
+  - first:
+      213: 7935795771036900606
+    second: Prueba UI 004_32
+  - first:
+      213: -6655227046906489868
+    second: Prueba UI 004_33
+  - first:
+      213: -4556890287980274220
+    second: Prueba UI 004_34
+  - first:
+      213: -4204217601736060584
+    second: Prueba UI 004_35
+  - first:
+      213: -8950904580149113428
+    second: Prueba UI 004_36
+  - first:
+      213: 321367112403823688
+    second: Prueba UI 004_37
+  - first:
+      213: 732942603981918871
+    second: Prueba UI 004_38
+  - first:
+      213: -7771724718035097190
+    second: Prueba UI 004_39
+  - first:
+      213: 7572811085641498075
+    second: Prueba UI 004_40
+  - first:
+      213: -5644062889041546840
+    second: Prueba UI 004_41
+  - first:
+      213: 5300323798191379864
+    second: Prueba UI 004_42
+  - first:
+      213: 5664625338754663937
+    second: Prueba UI 004_43
+  - first:
+      213: -2138453677481005049
+    second: Prueba UI 004_44
+  - first:
+      213: 4404734838792527120
+    second: Prueba UI 004_45
+  - first:
+      213: -4948127387024972872
+    second: Prueba UI 004_46
+  - first:
+      213: -2152115657314854883
+    second: Prueba UI 004_47
+  - first:
+      213: -1658687225666871093
+    second: Prueba UI 004_48
+  - first:
+      213: -4594248996512314228
+    second: Prueba UI 004_49
+  - first:
+      213: -5532075924624111628
+    second: Prueba UI 004_50
+  - first:
+      213: -8986029277637528455
+    second: Prueba UI 004_51
+  - first:
+      213: -4749745405972402244
+    second: Prueba UI 004_52
+  - first:
+      213: 6533590710602002481
+    second: Prueba UI 004_53
+  - first:
+      213: 5351808620388609987
+    second: Prueba UI 004_54
+  - first:
+      213: -7588432565460076715
+    second: Prueba UI 004_55
+  - first:
+      213: 235434222181498578
+    second: Prueba UI 004_56
+  - first:
+      213: 1626223557722069876
+    second: Prueba UI 004_57
+  - first:
+      213: 7819810079534309392
+    second: Prueba UI 004_58
+  - first:
+      213: -75424942855153401
+    second: Prueba UI 004_59
+  - first:
+      213: 947997161397590710
+    second: Prueba UI 004_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prueba UI 004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d2c4536cbb6060800000000000000
+      internalID: 6947853984958960078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 217
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03e671614337610800000000000000
+      internalID: 1617693960643162323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 233
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98874d49d926a1aa0800000000000000
+      internalID: -6189526308920985463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 121
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffb50d91d37bda0800000000000000
+      internalID: -5929203203330801919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 217
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3898488f87fbf3130800000000000000
+      internalID: 3548765557677656451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc311a8becef73d0800000000000000
+      internalID: -3206583913286648627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 185
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30551e0f7a966a0b0800000000000000
+      internalID: -5717766506878511869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc6c6020928b510800000000000000
+      internalID: 1565045959191612249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 185
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bbce9042cd23ae0800000000000000
+      internalID: -1570951272655438998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 185
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b15ab3acc797d0800000000000000
+      internalID: -2911633630494083400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e572b8fe5e6f360800000000000000
+      internalID: 7203197471020244531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 153
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08485e95dac72b5a0800000000000000
+      internalID: -6507001427617545088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056eb6d51799bf9c0800000000000000
+      internalID: -3892348740753955248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8cf42e38c74d8e0800000000000000
+      internalID: -1669572655968171862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237b6388a7b3f200800000000000000
+      internalID: 212715541803791137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621678b59bee13f50800000000000000
+      internalID: 6859526187333935398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 121
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb8d19457d34bcd0800000000000000
+      internalID: -2543340315610346569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cefda631a9c26c0800000000000000
+      internalID: -4166786147036435355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 121
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b436401c28be80800000000000000
+      internalID: -8162725876200066663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 138
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16482dad2bf77410800000000000000
+      internalID: 1474923576584324636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a99e63fd2c52fcf0800000000000000
+      internalID: -220012079360337495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6d933500dd7b00800000000000000
+      internalID: 828046627265408167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 138
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61d0bd53931c61a0800000000000000
+      internalID: -6815050612465413781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d92e3631885eb9b0800000000000000
+      internalID: -5062511619133789742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 125
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e04d7abb04f09d0800000000000000
+      internalID: -2805952868109775213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 124
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2cd488397f5aa10800000000000000
+      internalID: 1920213029162435315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 124
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426847eca8d1f6170800000000000000
+      internalID: 8173784330707174948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 88
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a3941f0476b540800000000000000
+      internalID: 5023330042496919097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 89
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15da54a3def34860800000000000000
+      internalID: 7513128788333090074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 89
+        width: 48
+        height: 19
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.44417572}
+      border: {x: 5, y: 6, z: 5, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d56bffa099b52030800000000000000
+      internalID: 3469383119037752787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 89
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 5, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc93b6453c912e60800000000000000
+      internalID: 7935795771036900606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 105
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f311910342e3a3a0800000000000000
+      internalID: -6655227046906489868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 105
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd12803d6ca2c0c0800000000000000
+      internalID: -4556890287980274220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 73
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d31abd5e97a5c0800000000000000
+      internalID: -4204217601736060584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_36
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 74
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8bc155bff7c380800000000000000
+      internalID: -8950904580149113428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951fb189688e8940800000000000000
+      internalID: 5300323798191379864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 73
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106062eabbacc9e40800000000000000
+      internalID: 5664625338754663937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 73
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fd19d5bfa252e0800000000000000
+      internalID: -2138453677481005049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 41
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 5, z: 5, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c403901e2fd30c0800000000000000
+      internalID: -4594248996512314228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 41
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 5, z: 5, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70a4ab14e1a33b0800000000000000
+      internalID: -5532075924624111628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 5, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b7256bf53b4380800000000000000
+      internalID: -8986029277637528455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 41
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa87fe7b3851eb0800000000000000
+      internalID: -4749745405972402244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 9, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1307935822afbaa50800000000000000
+      internalID: 6533590710602002481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 9
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfe22cc591754a40800000000000000
+      internalID: 5351808620388609987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 25
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de391d7d2e644300800000000000000
+      internalID: 235434222181498578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b556ba5b1819610800000000000000
+      internalID: 1626223557722069876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01069a116db858c60800000000000000
+      internalID: 7819810079534309392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7091ae10a6904fef0800000000000000
+      internalID: -75424942855153401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prueba UI 004_60
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 9
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9e254566f72d00800000000000000
+      internalID: 947997161397590710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 84affd9d81ee54146b318e68bca82114
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Prueba UI 004_0: 6947853984958960078
+      Prueba UI 004_1: 1617693960643162323
+      Prueba UI 004_10: 7203197471020244531
+      Prueba UI 004_11: -6507001427617545088
+      Prueba UI 004_12: 885738436247790602
+      Prueba UI 004_13: -3892348740753955248
+      Prueba UI 004_14: 1995687292744956946
+      Prueba UI 004_15: -1669572655968171862
+      Prueba UI 004_16: 212715541803791137
+      Prueba UI 004_17: 6859526187333935398
+      Prueba UI 004_18: -2543340315610346569
+      Prueba UI 004_19: -4166786147036435355
+      Prueba UI 004_2: -6189526308920985463
+      Prueba UI 004_20: -8162725876200066663
+      Prueba UI 004_21: 1474923576584324636
+      Prueba UI 004_22: -220012079360337495
+      Prueba UI 004_23: 828046627265408167
+      Prueba UI 004_24: -6815050612465413781
+      Prueba UI 004_25: -5062511619133789742
+      Prueba UI 004_26: -2805952868109775213
+      Prueba UI 004_27: 1920213029162435315
+      Prueba UI 004_28: 8173784330707174948
+      Prueba UI 004_29: 5023330042496919097
+      Prueba UI 004_3: -5929203203330801919
+      Prueba UI 004_30: 7513128788333090074
+      Prueba UI 004_31: 3469383119037752787
+      Prueba UI 004_32: 7935795771036900606
+      Prueba UI 004_33: -6655227046906489868
+      Prueba UI 004_34: -4556890287980274220
+      Prueba UI 004_35: -4204217601736060584
+      Prueba UI 004_36: -8950904580149113428
+      Prueba UI 004_37: 321367112403823688
+      Prueba UI 004_38: 732942603981918871
+      Prueba UI 004_39: -7771724718035097190
+      Prueba UI 004_4: 3548765557677656451
+      Prueba UI 004_40: 7572811085641498075
+      Prueba UI 004_41: -5644062889041546840
+      Prueba UI 004_42: 5300323798191379864
+      Prueba UI 004_43: 5664625338754663937
+      Prueba UI 004_44: -2138453677481005049
+      Prueba UI 004_45: 4404734838792527120
+      Prueba UI 004_46: -4948127387024972872
+      Prueba UI 004_47: -2152115657314854883
+      Prueba UI 004_48: -1658687225666871093
+      Prueba UI 004_49: -4594248996512314228
+      Prueba UI 004_5: -3206583913286648627
+      Prueba UI 004_50: -5532075924624111628
+      Prueba UI 004_51: -8986029277637528455
+      Prueba UI 004_52: -4749745405972402244
+      Prueba UI 004_53: 6533590710602002481
+      Prueba UI 004_54: 5351808620388609987
+      Prueba UI 004_55: -7588432565460076715
+      Prueba UI 004_56: 235434222181498578
+      Prueba UI 004_57: 1626223557722069876
+      Prueba UI 004_58: 7819810079534309392
+      Prueba UI 004_59: -75424942855153401
+      Prueba UI 004_6: -5717766506878511869
+      Prueba UI 004_60: 947997161397590710
+      Prueba UI 004_61: 1324947916
+      Prueba UI 004_7: 1565045959191612249
+      Prueba UI 004_8: -1570951272655438998
+      Prueba UI 004_9: -2911633630494083400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
